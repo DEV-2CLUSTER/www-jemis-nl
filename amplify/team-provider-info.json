@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wwwsibrandinl-dev-234337-authRole",
+      "UnauthRoleArn": "arn:aws:iam::700805644982:role/amplify-wwwsibrandinl-dev-234337-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::700805644982:role/amplify-wwwsibrandinl-dev-234337-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-wwwsibrandinl-dev-234337-deployment",
+      "UnauthRoleName": "amplify-wwwsibrandinl-dev-234337-unauthRole",
+      "StackName": "amplify-wwwsibrandinl-dev-234337",
+      "StackId": "arn:aws:cloudformation:eu-west-3:700805644982:stack/amplify-wwwsibrandinl-dev-234337/490acd00-bdce-11ec-95ce-0a869feae428",
+      "AmplifyAppId": "d3fvshvqea6xk0"
+    }
+  }
+}
