@@ -1,24 +1,19 @@
 {
   "auth": {
-    "wwwjemisnl": {
+    "wwwsibrandinl6740ff48": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
       "customAuth": false,
       "frontendAuthConfig": {
         "socialProviders": [],
-        "usernameAttributes": [
+        "usernameAttributes": [],
+        "signupAttributes": [
           "EMAIL"
         ],
-        "signupAttributes": [],
         "passwordProtectionSettings": {
           "passwordPolicyMinLength": 8,
-          "passwordPolicyCharacters": [
-            "REQUIRES_LOWERCASE",
-            "REQUIRES_NUMBERS",
-            "REQUIRES_SYMBOLS",
-            "REQUIRES_UPPERCASE"
-          ]
+          "passwordPolicyCharacters": []
         },
         "mfaConfiguration": "OFF",
         "mfaTypes": [

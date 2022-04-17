@@ -1,19 +1,19 @@
 {
-  "staging": {
+  "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-amplifya62343275fc04-staging-103403-authRole",
-      "UnauthRoleArn": "arn:aws:iam::700805644982:role/amplify-amplifya62343275fc04-staging-103403-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::700805644982:role/amplify-amplifya62343275fc04-staging-103403-authRole",
+      "AuthRoleName": "amplify-wwwsibrandinl-dev-133240-authRole",
+      "UnauthRoleArn": "arn:aws:iam::700805644982:role/amplify-wwwsibrandinl-dev-133240-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::700805644982:role/amplify-wwwsibrandinl-dev-133240-authRole",
       "Region": "eu-west-3",
-      "DeploymentBucketName": "amplify-amplifya62343275fc04-staging-103403-deployment",
-      "UnauthRoleName": "amplify-amplifya62343275fc04-staging-103403-unauthRole",
-      "StackName": "amplify-amplifya62343275fc04-staging-103403",
-      "StackId": "arn:aws:cloudformation:eu-west-3:700805644982:stack/amplify-amplifya62343275fc04-staging-103403/e6f80530-be39-11ec-ae11-0ecfba88925c",
-      "AmplifyAppId": "d2km4quzf79shl"
+      "DeploymentBucketName": "amplify-wwwsibrandinl-dev-133240-deployment",
+      "UnauthRoleName": "amplify-wwwsibrandinl-dev-133240-unauthRole",
+      "StackName": "amplify-wwwsibrandinl-dev-133240",
+      "StackId": "arn:aws:cloudformation:eu-west-3:700805644982:stack/amplify-wwwsibrandinl-dev-133240/185d00f0-be42-11ec-9db5-06aa45586f22",
+      "AmplifyAppId": "d3iq3ev3n5j2au"
     },
     "categories": {
       "auth": {
-        "wwwjemisnl": {}
+        "wwwsibrandinl6740ff48": {}
       }
     }
   }
