@@ -39,6 +39,7 @@ const App = () => {
       </Card>
       <Box pt={6} px={1} mt={6}>
         <Footer />
+        <AmplifySignOut />
       </Box>
     </>
   );
