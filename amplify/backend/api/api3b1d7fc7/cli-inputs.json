@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/vals": {
+      "name": "/vals",
+      "lambdaFunction": "wwwsibrandinl78856c3c",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
