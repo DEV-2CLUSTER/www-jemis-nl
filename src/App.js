@@ -14,6 +14,8 @@ import Costs from "sections/Costs";
 import Contact from "sections/Contact";
 import Footer from "sections/Footer";
 
+import { withAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
+
 const App = () => {
   return (
     <>
@@ -42,4 +44,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default withAuthenticator(App);
